@@ -1,6 +1,5 @@
 import streamlit as st
 st._is_running_with_streamlit = False
-import sklearn
 
 from st_pages import Page, show_pages, add_page_title
 from PIL import Image
